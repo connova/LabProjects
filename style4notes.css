@@ -1,0 +1,26 @@
+h2 {
+	color: blue;
+	font-family: arial;
+}
+#lab3div {
+	background-color: crimson;
+}
+#lab3div2 {
+	background-color: chocolate;
+}
+h3#git {
+	color: blue;
+}
+h2, h3 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px; 
+}
+h1 {
+	border-top: 5px;
+	border-bottom: 5px;
+}
+h3 {
+	border-bottom: 5px;
+}
