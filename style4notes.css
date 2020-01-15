@@ -24,3 +24,8 @@ h1 {
 h3 {
 	border-bottom: 5px;
 }
+#columnedParagraph {
+	column-count: 3;
+	column-gap: 2.5em;
+	column-rule: 1px dotted;
+}
